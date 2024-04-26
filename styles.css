@@ -1,0 +1,108 @@
+body {
+    text-align: center !important;
+    color: rgb(64, 81, 78) !important;
+    font-family: 'Merriweather', serif !important;
+    margin: 0px !important;
+}
+.cover {
+    background-image: linear-gradient(to right bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    position: relative;
+    padding-top: 100px;
+}
+.title h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 5.625rem;
+    color: #0F4C75;
+    margin: 50px 0;
+    font-weight: normal;
+}
+.title h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+    color: #0F4C75;
+    padding-bottom: 10px;
+    margin: 33.2px 0 !important;
+    font-weight: normal;
+}
+.img-top {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.img-bottom {
+    position: absolute;
+    left: 300px;
+}
+.design-bottom {
+    margin-top: 100px;
+}
+.introduction {
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+.profile-img {
+    border-radius: 50%;
+}
+.introduction h2 {
+    margin: 33.2px 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+    color: #3282B8;
+    padding-bottom: 10px;
+}
+p {
+    line-height: 2;
+}
+.intro {
+    line-height: 2;
+    font-size: 1.15rem !important;
+}
+span {
+    color: #3282B8;
+    font-size: 1.15rem;
+    font-weight: bold;
+}
+.skill-card3 {
+    padding-left: 60px;
+}
+.skill3 {
+    padding-right: 50px;
+}
+.skill-title, .skill-heading {
+    color: #3282B8;
+}
+.skill-body {
+    padding-left: 50px;
+}
+.contact h2 {
+    color: #3282B8 !important;
+    margin: 33.2px 0;
+    padding-bottom: 10px;
+}
+.contact-message {
+    width: 65%;
+    margin: 40px auto 60px;
+}
+.heading {
+    color: #0F4C75;
+    margin: 18.720px 0;
+}
+.footer {
+    background-color: #3282B8;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.footer-link {
+    color: #0F4C75;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #eaf6f6;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    margin: 12px 0;
+}
