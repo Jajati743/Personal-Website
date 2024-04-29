@@ -1,8 +1,9 @@
 body {
+    background-color: #BBE1FA !important;
     text-align: center !important;
     color: rgb(64, 81, 78) !important;
     font-family: 'Merriweather', serif !important;
-    margin: 0px !important;
+    margin: 0 !important;
 }
 .cover {
     background-image: linear-gradient(to right bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
@@ -26,12 +27,12 @@ body {
 }
 .img-top {
     position: absolute;
-    right: 300px;
+    right: 200px;
     top: 40px;
 }
 .img-bottom {
     position: absolute;
-    left: 300px;
+    left: 200px;
 }
 .design-bottom {
     margin-top: 100px;
